@@ -1,0 +1,10 @@
+1. Brendan Yang  486295
+
+2. 
+[ 2721.402091] Loaded kernel_memory module
+[ 2721.402818] Hello from thread k_memory. nr_structs=2000
+[ 2721.402834] Page size: 4096
+[ 2721.402848] Size of datatype: 32
+[ 2721.402860] Structs per page: 128
+
+3. 

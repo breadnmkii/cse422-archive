@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/modules/studio8/core_thread.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /project/scratch01/compile/b.z.yang/modules/studio8/core_thread.ko /project/scratch01/compile/b.z.yang/modules/studio8/core_thread.o /project/scratch01/compile/b.z.yang/modules/studio8/core_thread.mod.o;  true

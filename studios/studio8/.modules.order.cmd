@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/modules/studio8/modules.order := {   echo /project/scratch01/compile/b.z.yang/modules/studio8/core_thread.ko;   echo /project/scratch01/compile/b.z.yang/modules/studio8/core_thread_atomic.ko; :; } | awk '!x[$$0]++' - > /project/scratch01/compile/b.z.yang/modules/studio8/modules.order

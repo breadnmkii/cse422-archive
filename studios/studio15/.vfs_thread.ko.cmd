@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.ko /project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.o /project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.mod.o;  true

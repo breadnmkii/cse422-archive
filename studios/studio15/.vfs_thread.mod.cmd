@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.mod := { echo  /project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.o;  echo; } > /project/scratch01/compile/b.z.yang/studios/studio15/vfs_thread.mod

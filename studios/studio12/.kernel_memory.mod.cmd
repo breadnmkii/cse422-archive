@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/modules/studio12/kernel_memory.mod := { echo  /project/scratch01/compile/b.z.yang/modules/studio12/kernel_memory.o;  echo; } > /project/scratch01/compile/b.z.yang/modules/studio12/kernel_memory.mod

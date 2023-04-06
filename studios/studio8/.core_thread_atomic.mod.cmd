@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/modules/studio8/core_thread_atomic.mod := { echo  /project/scratch01/compile/b.z.yang/modules/studio8/core_thread_atomic.o;  echo; } > /project/scratch01/compile/b.z.yang/modules/studio8/core_thread_atomic.mod
