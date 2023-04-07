@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/422/labs/lab2/mod/Module.symvers := sed 's/ko$$/o/' /project/scratch01/compile/b.z.yang/422/labs/lab2/mod/modules.order | scripts/mod/modpost -m -a   -o /project/scratch01/compile/b.z.yang/422/labs/lab2/mod/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/project/scratch01/compile/b.z.yang/422/labs/lab2/mod/paging.mod := { echo  /project/scratch01/compile/b.z.yang/422/labs/lab2/mod/paging.o;  echo; } > /project/scratch01/compile/b.z.yang/422/labs/lab2/mod/paging.mod
